@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PolCar_Api.props" />
+</Project>
