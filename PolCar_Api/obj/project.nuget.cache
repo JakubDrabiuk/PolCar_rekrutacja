@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PaYZTnOwd0gFRul8F2Gkpfh+mY47ZEQcCuq8VSwkQZA4x3/Itq7xmmoNxHfLFZghcBu13rCWlWrNn00dSHEKZw==",
+  "dgSpecHash": "TKLie7H6YnC5ygf/IrzFRSnw+C5JGVahncgg5mbMiZnhLjsGA4elB809BPweM87C1ev9AlNCRb7F8d9pXy8OwA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\polcar\\PolCar_Api\\PolCar_Api.csproj",
+  "projectFilePath": "D:\\Projects\\Pol\\PolCar_Api\\PolCar_Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kuba\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Kuba\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

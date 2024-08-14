@@ -11672,11 +11672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\polcar\\PolCar_Api\\PolCar_Api.csproj",
+      "projectUniqueName": "D:\\Projects\\Pol\\PolCar_Api\\PolCar_Api.csproj",
       "projectName": "PolCar_Api",
-      "projectPath": "D:\\Projects\\polcar\\PolCar_Api\\PolCar_Api.csproj",
+      "projectPath": "D:\\Projects\\Pol\\PolCar_Api\\PolCar_Api.csproj",
       "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\polcar\\PolCar_Api\\obj\\",
+      "outputPath": "D:\\Projects\\Pol\\PolCar_Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudio\\Shared\\NuGetPackages"
